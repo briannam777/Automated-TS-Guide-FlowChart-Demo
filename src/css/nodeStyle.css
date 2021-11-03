@@ -1,0 +1,36 @@
+.react-flow__node {
+    padding: 10px;
+    border-radius: 3px;
+    width: 150px;
+    font-size: 12px;
+    color: #222;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    background-color: white;
+}
+
+
+.ui.modal {
+    height:80%
+}
+
+.react-flow{
+    height:100%
+}
+
+.react-flow__renderer{
+    height:100%
+}
+
+
+.content{
+
+    height:100%
+}
+
+.nodeText{
+
+    white-space: pre-wrap;
+    text-align: left
+}
